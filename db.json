@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exciting Adventure",
+      "description": "Embark on a thrilling journey filled with unexpected twists and turns. Will you overcome the challenges that await?",
+      "likeCount": 25
+    },
+    {
+      "id": 2,
+      "title": "Delicious Recipes",
+      "description": "Explore mouthwatering recipes that will tantalize your taste buds. From savory to sweet, there's something for every food lover.",
+      "likeCount": 45
+    },
+    {
+      "id": 3,
+      "title": "Inspiring Quotes",
+      "description": "Discover words of wisdom that will uplift your spirits. Let these inspirational quotes guide you through life's ups and downs.",
+      "likeCount": 30
+    },
+    {
+      "id": 4,
+      "title": "Tech Innovations",
+      "description": "Stay updated on the latest technological advancements. Explore groundbreaking innovations that are shaping the future.",
+      "likeCount": 60
+    },
+    {
+      "id": 5,
+      "title": "Fitness Motivation",
+      "description": "Get motivated to achieve your fitness goals. Join the journey to a healthier lifestyle and witness the positive transformations.",
+      "likeCount": 35
+    },
+    {
+      "id": 6,
+      "title": "Artistic Creations",
+      "description": "Immerse yourself in a world of creativity. Admire and share artistic creations that showcase the beauty of human expression.",
+      "likeCount": 50
+    }
+  ]
+}
